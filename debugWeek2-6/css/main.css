@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+}
+
+.tomato {
+	background-color: tomato;
+}
+.lime {
+	background-color: lime;
+}
+.tomato,
+.lime {
+	height: 400px;
+	width: 50%;
+	display: inline-block;
+}
